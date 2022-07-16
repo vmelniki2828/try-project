@@ -1,4 +1,31 @@
-body{
-    background-color: teal;
-    color: #2a2a2a;
+.block{
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.block-img{
+    padding: 25px 100px;
+    background: #E5E5E5;
+}
+
+.block-title{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.block-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
